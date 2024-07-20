@@ -1,7 +1,6 @@
 # Hi, I am Aris!
-- Co-founder and CTO at @rated-network
-- Former CTO @drivetribe and Head of Engineering @sprout-ai
-- Currently building a machine reputation system for the Ethereum Beacon Chain
+- Co-founder and CTO at [Rated](https://rated.network)
+- Currently building a generalised machine reputation system
 - You can reach out to me on Twitter [@ariskkol](https://twitter.com/ariskkol)
 - Living mostly in London 🇬🇧
 
