@@ -1,8 +1,7 @@
 # Hi, I am Aris!
-- Co-founder and CTO at [Rated](https://rated.network)
-- Currently building a generalised machine reputation system
-- You can reach out to me on Twitter [@ariskkol](https://twitter.com/ariskkol)
-- Living mostly in London 🇬🇧
+- Currently cooking something new
+- Previously, co-founder and CTO at [Rated](https://rated.network) ([acquired](https://blockworks.co/news/figment-acquires-rated)
+- You can reach out to me on X [@ariskkol](https://twitter.com/ariskkol)
 
 
 <!--
