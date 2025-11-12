@@ -1,6 +1,6 @@
 # Hi, I am Aris!
 - Currently cooking something new
-- Previously, co-founder and CTO at [Rated](https://rated.network) ([acquired](https://blockworks.co/news/figment-acquires-rated)
+- Previously, co-founder and CTO at [Rated](https://rated.network) ([acquired](https://blockworks.co/news/figment-acquires-rated))
 - You can reach out to me on X [@ariskkol](https://twitter.com/ariskkol)
 
 
